@@ -118,5 +118,12 @@ Comparison in performance:
 Based on this, the best model to use for the classification is the gradient boosted Decision Tree classifier
 
 
+## RECOMMENDATIONS
 
+**Emphasize vaccine efficacy**. Highlight the effectiveness of the vaccine in preventing flu-related complications while at the same time **raising awareness on the risks associated with seasonal flu**.
 
+**Promote Doctor recommendations**. Encourage healthcare providers to recommend seasonal flu vaccinationa to their patients, especially those with **chronic health conditions**.
+
+Impliment targeted vaccination campaigns aimed at **older people**. Avail more vaccines to nursing homes.
+
+Promote **hygiene practises such as wearing facemasks and washing hands**. These seem to promote health seeking behaviour consequently leading to increased uptake of the seasonal flu vaccine.
