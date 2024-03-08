@@ -93,6 +93,9 @@ Precision: 0.718189233278956
 Sensitivity (Recall): 0.7184822521419829
 Specificity: 0.7609823590453131
 
+ROC
+![alt text](image-8.png)
+
 **HYPERPARAMETER TUNED RANDOM FOREST**
 
 We did hyperparameter tuning using GridSearchCV
@@ -102,6 +105,9 @@ Accuracy: 0.7414825907899663
 Precision: 0.718189233278956
 Sensitivity (Recall): 0.7184822521419829
 Specificity: 0.7609823590453131
+
+ROC
+![alt text](image-9.png)
 
 ### WHICH MODEL TO USE?
 
