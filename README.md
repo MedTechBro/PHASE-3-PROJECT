@@ -1,5 +1,6 @@
 # **SEASONAL FLU VACCINE CLASSIFICATION PROJECT**
 
+![Uploading image.png…]()
 
 Influenza (flu) is a contagious respiratory illness caused by influenza viruses that infect the nose, throat, and lungs. Some people, such as people 65 years and older, young children, and people with certain health conditions, are at higher risk of serious flu complications thus the need for a vaccine. (CDC)
 Last year, there were about 18000 deaths from seasonal flu in the US according to CDC.
