@@ -1,12 +1,13 @@
 # **SEASONAL FLU VACCINE CLASSIFICATION PROJECT**
 
+![Uploading image.png…]()
 
 Influenza (flu) is a contagious respiratory illness caused by influenza viruses that infect the nose, throat, and lungs. Some people, such as people 65 years and older, young children, and people with certain health conditions, are at higher risk of serious flu complications thus the need for a vaccine. (CDC)
 Last year, there were about 18000 deaths from seasonal flu in the US according to CDC.
 Every person 6 months and above should be vaccinated every season(December to February)
 
 Safaricom, through their m-tiba subsidiary wants to understand the leading factors in determining whether people would take the seasonal flu vaccine in order to put in the right strategies for their public efforts and vaccination campaigns to educate the public, raise awareness while maximizing vaccine intake.
-My objective is to build a classifier to predict seasonal flu vaccination status using data they shared on their behaviors, opinions and demographic characteristics.
+My objective is to build a classifier to predict seasonal flu vaccination status using data they shared on their behaviours, opinions and demographic characteristics.
 
 
 
@@ -126,8 +127,8 @@ Based on this, the best model to use for the classification is the gradient boos
 
 **Emphasize vaccine efficacy**. Highlight the effectiveness of the vaccine in preventing flu-related complications while at the same time **raising awareness on the risks associated with seasonal flu**.
 
-**Promote Doctor recommendations**. Encourage healthcare providers to recommend seasonal flu vaccinationa to their patients, especially those with **chronic health conditions**.
+**Promote Doctor recommendations**. Encourage healthcare providers to recommend seasonal flu vaccination to their patients, especially those with **chronic health conditions**.
 
-Impliment targeted vaccination campaigns aimed at **older people**. Avail more vaccines to nursing homes.
+Implement targeted vaccination campaigns aimed at **older people**. Avail more vaccines to nursing homes.
 
 Promote **hygiene practises such as wearing facemasks and washing hands**. These seem to promote health seeking behaviour consequently leading to increased uptake of the seasonal flu vaccine.
